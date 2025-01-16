@@ -1,4 +1,4 @@
-# Cullen Williams-Freeman Data Science Portfolio
+# Cullen Williams-Freeman – Data Science Portfolio
 
 ### Work Experience
 Cleveland Clinic (Main campus, H50) – Clinical Technician (CT)
