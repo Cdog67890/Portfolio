@@ -1,0 +1,13 @@
+### Capstone Project : Colorectal Database
+Colonoscopy and endoscope video have proven to have a high risk of misinterpretation by medical staff due
+the length of the digestive system, the amount of unideal structures depicted, and patients lack of adherence to
+fasting prior to the procedure. It can be very difficult to identify, diagnose, and track things found in the
+digestive tract such as polyps which have the potential to develop into a tumor. By developing a repository that
+documents threatening structures such as: polyps, diverticulitis, hemorrhoids, inflamed tissue from IBS, and
+the like we may find trends in patient health, as well as better survey imminent danger. This project aims to
+circumvent the issue of human error in misdiagnosing patients by stating the likelihood of diseased sites
+developing in further stages, as well as more clearly document issues in a given patient's digestive system.
+
+For this database I built compiles real world data on colorectal cancer (CRC) and polyps based upon physician 
+observations. In this database we gain the ability to document observations, categorize them, and find accuracy 
+scores for individual physician predictions. 
